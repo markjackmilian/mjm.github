@@ -7,6 +7,7 @@ Vetrina statica in inglese per [Toolotoolo](https://toolotoolo.com/), [Project O
 - `index.html` contiene introduzione, profilo GitHub, schede dei progetti e invito al supporto. Per aggiungere un progetto, sostituire una scheda `project-card--soon` con una scheda attiva e un link reale.
 - `projects/mjm-cleaner.html` è la pagina dedicata a mjm.cleaner. Le altre pagine dedicate possono seguire lo stesso schema nella cartella `projects/`.
 - `assets/site.css` contiene lo stile condiviso e i layout per schermi piccoli.
+- `assets/site-swiss.css` applica la direzione visiva Swiss scelta per la homepage e la pagina mjm.cleaner.
 - `.nojekyll` permette a GitHub Pages di servire i file statici senza elaborazione Jekyll.
 
 Usare percorsi relativi per i link interni: dalla homepage `projects/nome.html`, da una pagina nella cartella `projects/` `../index.html#projects` e `../assets/site.css`. I link esterni devono puntare a destinazioni HTTPS reali; le schede “Coming soon” non devono contenere link.
