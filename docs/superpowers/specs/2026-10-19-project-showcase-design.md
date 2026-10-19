@@ -2,7 +2,7 @@
 
 ## Obiettivo
 
-Creare una breve vetrina in italiano per i progetti e le applicazioni di MJM. Chi visita il sito deve capire rapidamente quali progetti esistono e raggiungere la relativa pagina dedicata o il sito esterno. Il sito deve restare facile da aggiornare quando arriveranno altri progetti.
+Creare una breve vetrina in inglese per i progetti e le applicazioni di MJM. Chi visita il sito deve capire rapidamente quali progetti esistono e raggiungere la relativa pagina dedicata o il sito esterno. Il sito deve restare facile da aggiornare quando arriveranno altri progetti.
 
 ## Contenuto
 
@@ -11,7 +11,7 @@ La pagina iniziale mostra cinque schede:
 1. **Toolotoolo** — nome e invito neutro a visitare `https://toolotoolo.com/`. Non attribuire caratteristiche al progetto senza una descrizione fornita dal proprietario o verificata.
 2. **Project Orbit** — workspace personale che funziona offline; link a `https://project-orb.it/`. Questa descrizione è supportata dal README del progetto locale.
 3. **mjm.cleaner** — applicazione macOS per individuare e rimuovere file temporanei rigenerabili dopo anteprima e conferma esplicita. La scheda porta a una pagina dedicata interna.
-4. e 5. **In arrivo** — segnaposto visibili, senza collegamenti inattivi o finte descrizioni.
+4. e 5. **Coming soon** — segnaposto visibili, senza collegamenti inattivi o finte descrizioni.
 
 La pagina dedicata a mjm.cleaner contiene una sintesi concisa del flusso di analisi, anteprima e conferma, un link al repository `https://github.com/markjackmilian/mjm.cleaner` e un ritorno alla vetrina. Non promette download o disponibilità commerciale.
 
@@ -21,7 +21,7 @@ Una sezione breve dopo la griglia invita chi apprezza il lavoro a sostenere i pr
 
 - Una testata essenziale con marchio testuale “MJM” e collegamento alla sezione progetti.
 - Un'introduzione breve: titolo chiaro, una frase descrittiva e un collegamento alla griglia dei progetti.
-- Griglia responsive: tre colonne su schermi ampi, due su tablet, una su telefono. Le due schede “In arrivo” mantengono la stessa misura visiva ma uno stato distinto.
+- Griglia responsive: tre colonne su schermi ampi, due su tablet, una su telefono. Le due schede “Coming soon” mantengono la stessa misura visiva ma uno stato distinto.
 - Fondo chiaro, testo scuro, un solo colore d'accento freddo, linee sottili, spazi generosi, tipografia di sistema e movimento discreto. Nessuna immagine o logo inventato.
 - Piè di pagina minimale con nome del sito e anno.
 - Il supporto resta secondario rispetto all'esplorazione dei progetti: un invito testuale e un pulsante riconoscibile, senza banner invadenti.
