@@ -15,6 +15,8 @@ La pagina iniziale mostra cinque schede:
 
 La pagina dedicata a mjm.cleaner contiene una sintesi concisa del flusso di analisi, anteprima e conferma, un link al repository `https://github.com/markjackmilian/mjm.cleaner` e un ritorno alla vetrina. Non promette download o disponibilità commerciale.
 
+Una sezione breve dopo la griglia invita chi apprezza il lavoro a sostenere i progetti tramite Buy Me a Coffee. La pagina di mjm.cleaner ripete il collegamento in modo discreto. Usare un normale link esterno, senza widget, script di terze parti o richieste di pagamento dentro il sito. La destinazione deve essere il profilo Buy Me a Coffee comunicato dal proprietario; finché non è disponibile, il collegamento non viene pubblicato.
+
 ## Struttura e aspetto
 
 - Una testata essenziale con marchio testuale “MJM” e collegamento alla sezione progetti.
@@ -22,6 +24,7 @@ La pagina dedicata a mjm.cleaner contiene una sintesi concisa del flusso di anal
 - Griglia responsive: tre colonne su schermi ampi, due su tablet, una su telefono. Le due schede “In arrivo” mantengono la stessa misura visiva ma uno stato distinto.
 - Fondo chiaro, testo scuro, un solo colore d'accento freddo, linee sottili, spazi generosi, tipografia di sistema e movimento discreto. Nessuna immagine o logo inventato.
 - Piè di pagina minimale con nome del sito e anno.
+- Il supporto resta secondario rispetto all'esplorazione dei progetti: un invito testuale e un pulsante riconoscibile, senza banner invadenti.
 
 ## Comportamento e accessibilità
 
