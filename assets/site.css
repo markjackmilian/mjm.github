@@ -3,7 +3,7 @@
   --canvas: #f6f7f5;
   --surface: #fff;
   --ink: #1c252a;
-  --muted: #69767b;
+  --muted: #627176;
   --line: #dce2df;
   --accent: #356a72;
   --accent-dark: #224c52;
@@ -41,7 +41,7 @@ h1, h2, h3, p { margin-top: 0; }
 .text-link { display: inline-flex; align-items: center; gap: 17px; border-bottom: 1px solid currentColor; padding-bottom: 7px; color: var(--accent-dark); font-size: 14px; font-weight: 750; text-decoration: none; }
 .text-link span { font-size: 18px; }
 .hero-link { margin-top: 24px; }
-.hero-aside { align-self: end; display: flex; flex-direction: column; gap: 22px; color: #728081; font-size: 10px; font-weight: 800; letter-spacing: .14em; }
+.hero-aside { align-self: end; display: flex; flex-direction: column; gap: 22px; color: #61716f; font-size: 10px; font-weight: 800; letter-spacing: .14em; }
 .hero-orbit { position: relative; display: block; width: 210px; aspect-ratio: 1; border: 1px solid #d8e3e0; border-radius: 50%; }
 .hero-orbit::before, .hero-orbit::after { content: ""; position: absolute; border: 1px solid #d8e3e0; border-radius: 50%; }
 .hero-orbit::before { inset: 26px; }
@@ -57,7 +57,7 @@ h1, h2, h3, p { margin-top: 0; }
 .project-card { display: flex; flex-direction: column; min-width: 0; min-height: 438px; overflow: hidden; background: var(--surface); border: 1px solid var(--line); border-radius: 18px; transition: transform .25s ease, box-shadow .25s ease, border-color .25s ease; }
 .project-card:not(.project-card--soon):hover { transform: translateY(-4px); box-shadow: 0 18px 36px #1b363c0a; border-color: #c9d7d3; }
 .card-top { display: flex; align-items: center; justify-content: space-between; padding: 25px 25px 0; }
-.card-index { color: #8b9898; font-size: 12px; font-weight: 700; letter-spacing: .08em; }
+.card-index { color: #647474; font-size: 12px; font-weight: 700; letter-spacing: .08em; }
 .card-category { padding: 7px 10px; border-radius: 100px; background: #f3f6f4; color: #536764; font-size: 11px; font-weight: 720; }
 .card-art { position: relative; display: grid; place-items: center; min-height: 198px; margin: 18px 24px 0; overflow: hidden; border-radius: 11px; }
 .card-art--toolotoolo { background: #e8eee6; }
@@ -78,11 +78,11 @@ h1, h2, h3, p { margin-top: 0; }
 .card-link span { font-size: 19px; transition: transform .2s ease; }
 .card-link:hover span { transform: translate(2px, -2px); }
 .project-card--soon { background: transparent; border-style: dashed; border-color: #cfd9d5; }
-.project-card--soon .card-category { background: #e8eeeb; color: #6c807b; }
+.project-card--soon .card-category { background: #e8eeeb; color: #526861; }
 .soon-mark { display: grid; place-items: center; flex: 1; min-height: 185px; color: #acbdb6; font-size: 86px; font-weight: 220; line-height: 1; }
 .project-card--soon .card-content { flex: 0 0 auto; }
 .project-card--soon .card-content h3 { color: #677772; }
-.soon-label { margin-top: 29px; color: #879792; font-size: 12px; font-weight: 700; }
+.soon-label { margin-top: 29px; color: #63756e; font-size: 12px; font-weight: 700; }
 
 .support { display: flex; align-items: center; justify-content: space-between; gap: 36px; margin: 0 0 106px; padding: 42px 48px; border: 1px solid #d4e0dc; border-radius: 18px; background: var(--soft); scroll-margin-top: 28px; }
 .support h2 { margin: 13px 0 8px; font-size: clamp(28px, 3vw, 40px); line-height: 1.15; letter-spacing: -.045em; font-weight: 660; }
@@ -91,7 +91,7 @@ h1, h2, h3, p { margin-top: 0; }
 .support-button:hover { background: var(--accent-dark); transform: translateY(-2px); }
 .support-button span:first-child { font-size: 18px; color: #a8d5c7; }
 .support-button span:last-child { font-size: 18px; margin-left: 4px; }
-.site-footer { display: flex; justify-content: space-between; gap: 20px; padding: 28px 0 42px; border-top: 1px solid var(--line); color: #7d8988; font-size: 12px; font-weight: 600; }
+.site-footer { display: flex; justify-content: space-between; gap: 20px; padding: 28px 0 42px; border-top: 1px solid var(--line); color: #61716f; font-size: 12px; font-weight: 600; }
 
 .detail-hero { display: grid; grid-template-columns: minmax(0, 1fr) 340px; gap: 70px; align-items: center; padding: 90px 0 96px; }
 .detail-hero h1 { margin: 22px 0 22px; font-size: clamp(59px, 7vw, 100px); line-height: 1; letter-spacing: -.075em; font-weight: 690; }
