@@ -1,6 +1,6 @@
 # MJM — progetti e applicazioni
 
-Vetrina statica in inglese per [Toolotoolo](https://toolotoolo.com/), [Project Orbit](https://project-orb.it/) e mjm.cleaner. Due schede “Coming soon” sono pronte per i prossimi progetti. Il sito è composto da HTML e CSS, senza build o dipendenze.
+Vetrina statica in inglese per [Toolotoolo](https://toolotoolo.com/), [Project Orbit](https://www.project-orb.it/) e mjm.cleaner. Due schede “Coming soon” sono pronte per i prossimi progetti. Il sito è composto da HTML e CSS, senza build o dipendenze.
 
 ## Modificare il sito
 
