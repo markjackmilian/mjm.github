@@ -15,7 +15,7 @@ La pagina iniziale mostra cinque schede:
 
 La pagina dedicata a mjm.cleaner contiene una sintesi concisa del flusso di analisi, anteprima e conferma, un link al repository `https://github.com/markjackmilian/mjm.cleaner` e un ritorno alla vetrina. Non promette download o disponibilità commerciale.
 
-Una sezione breve dopo la griglia invita chi apprezza il lavoro a sostenere i progetti tramite Buy Me a Coffee. La pagina di mjm.cleaner ripete il collegamento in modo discreto. Usare un normale link esterno, senza widget, script di terze parti o richieste di pagamento dentro il sito. La destinazione deve essere il profilo Buy Me a Coffee comunicato dal proprietario; finché non è disponibile, il collegamento non viene pubblicato.
+Una sezione breve dopo la griglia invita chi apprezza il lavoro a sostenere i progetti tramite Buy Me a Coffee. La pagina di mjm.cleaner ripete il collegamento in modo discreto. Usare un normale link esterno a `https://buymeacoffee.com/bugbrew`, comunicato dal proprietario, senza widget, script di terze parti o richieste di pagamento dentro il sito.
 
 ## Struttura e aspetto
 
